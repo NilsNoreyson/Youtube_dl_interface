@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f43fa6d-521f-410c-b16f-b98f80b66e80" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FlaskServer.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FlaskServer.py___jb_bak___" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/iwfPhoneSerial.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mpd_comm.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/readFlaskPhoneBook/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/readFlaskPhoneBook/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/readFlaskPhoneBook/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/readFlaskPhoneBook/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/readFlaskPhoneBook/.idea/readFlaskPhoneBook.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/readFlaskPhoneBook/.idea/scopes/scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/readFlaskPhoneBook/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/readFlaskPhoneBook/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/readFlaskPhoneBook/readFlaskJson.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/readJson.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test_mpd_client.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flask2.py" afterPath="$PROJECT_DIR$/Flask2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/index.html" afterPath="$PROJECT_DIR$/html/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="phoneBookServer.iws" />
@@ -46,10 +30,10 @@
       <file leaf-file-name="Flask2.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Flask2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5881007" vertical-offset="253" max-vertical-offset="750">
-              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.7597254" vertical-offset="118" max-vertical-offset="975">
+              <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
               <folding>
-                <element signature="e#87#141#0" expanded="true" />
+                <element signature="e#88#97#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -426,7 +410,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24940239" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24940239" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25515056" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -494,7 +478,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="281" max-vertical-offset="1890">
           <caret line="37" column="38" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
           <folding>
-            <element signature="e#87#141#0" expanded="true" />
+            <element signature="e#88#97#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -528,7 +512,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="281" max-vertical-offset="1890">
           <caret line="37" column="38" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
           <folding>
-            <element signature="e#87#141#0" expanded="true" />
+            <element signature="e#88#97#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -562,7 +546,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="281" max-vertical-offset="1890">
           <caret line="37" column="38" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
           <folding>
-            <element signature="e#87#141#0" expanded="true" />
+            <element signature="e#88#97#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -596,7 +580,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="675" max-vertical-offset="1905">
           <caret line="51" column="12" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
           <folding>
-            <element signature="e#87#141#0" expanded="true" />
+            <element signature="e#88#97#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -630,7 +614,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="1995">
           <caret line="51" column="12" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
           <folding>
-            <element signature="e#87#141#0" expanded="true" />
+            <element signature="e#88#97#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -700,10 +684,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Flask2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5881007" vertical-offset="253" max-vertical-offset="750">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.7597254" vertical-offset="118" max-vertical-offset="975">
+          <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
           <folding>
-            <element signature="e#87#141#0" expanded="true" />
+            <element signature="e#88#97#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -6,15 +6,30 @@ Created on Tue May 13 14:28:23 2014
 """
 
 
-from flask import Flask,jsonify,request, make_response
+
 import os
 import subprocess, shlex
+
+
+from flask import Flask, render_template,jsonify,request, make_response
+from flask.ext.basicauth import BasicAuth
+
+
+
 
 
 topPath=os.path.dirname(os.path.realpath(__file__))
 
 
 app = Flask(__name__, static_url_path='')
+
+app.config['BASIC_AUTH_USERNAME'] = 'alles'
+app.config['BASIC_AUTH_PASSWORD'] = 'grau'
+
+basic_auth = BasicAuth(app)
+
+app.config['BASIC_AUTH_FORCE'] = True
+
 
 outPath = '/media/music/rip/Youtube/%(title)s.%(ext)s'
 
